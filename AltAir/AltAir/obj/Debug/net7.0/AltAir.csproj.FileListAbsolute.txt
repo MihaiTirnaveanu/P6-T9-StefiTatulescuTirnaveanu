@@ -1,0 +1,1719 @@
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\appsettings.json
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\AltAir.staticwebassets.runtime.json
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\AltAir.exe
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\AltAir.deps.json
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\AltAir.runtimeconfig.json
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\AltAir.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\AltAir.pdb
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\AltAir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\AltAir.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\AltAir.AssemblyInfo.cs
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\AltAir.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\AltAir.RazorAssemblyInfo.cache
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\AltAir.RazorAssemblyInfo.cs
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.AltAir.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.build.AltAir.props
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AltAir.props
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AltAir.props
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\scopedcss\bundle\AltAir.styles.css
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\scopedcss\projectbundle\AltAir.bundle.scp.css
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.CopyComplete
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\AltAir.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\refint\AltAir.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\AltAir.pdb
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\AltAir.genruntimeconfig.cache
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\ref\AltAir.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Alex\Desktop\proiect\alt\AltAir\AltAir\obj\Debug\net7.0\AltAir.MvcApplicationPartsAssemblyInfo.cs
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\appsettings.Development.json
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\appsettings.json
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\AltAir.staticwebassets.runtime.json
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\AltAir.exe
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\AltAir.deps.json
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\AltAir.runtimeconfig.json
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\AltAir.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\AltAir.pdb
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Azure.Core.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Azure.Identity.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Humanizer.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\NuGet.Common.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\System.CodeDom.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.AssemblyReference.cache
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\AltAir.GeneratedMSBuildEditorConfig.editorconfig
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\AltAir.AssemblyInfoInputs.cache
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\AltAir.AssemblyInfo.cs
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.CoreCompileInputs.cache
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\AltAir.MvcApplicationPartsAssemblyInfo.cs
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\AltAir.MvcApplicationPartsAssemblyInfo.cache
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\AltAir.RazorAssemblyInfo.cache
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\AltAir.RazorAssemblyInfo.cs
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.AltAir.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.build.AltAir.props
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AltAir.props
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AltAir.props
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.build.json
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.development.json
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\scopedcss\bundle\AltAir.styles.css
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\scopedcss\projectbundle\AltAir.bundle.scp.css
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.CopyComplete
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\AltAir.dll
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\refint\AltAir.dll
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\AltAir.pdb
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\AltAir.genruntimeconfig.cache
+D:\Altair\diferite folder\AltAir\AltAir\obj\Debug\net7.0\ref\AltAir.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Altair\diferite folder\AltAir\AltAir\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\appsettings.json
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\AltAir.staticwebassets.runtime.json
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\AltAir.exe
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\AltAir.deps.json
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\AltAir.runtimeconfig.json
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\AltAir.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\AltAir.pdb
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.AssemblyInfo.cs
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.RazorAssemblyInfo.cache
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.RazorAssemblyInfo.cs
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.AltAir.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.build.AltAir.props
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AltAir.props
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AltAir.props
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\scopedcss\bundle\AltAir.styles.css
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\scopedcss\projectbundle\AltAir.bundle.scp.css
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.CopyComplete
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\refint\AltAir.dll
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.pdb
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.genruntimeconfig.cache
+C:\Users\Alex\Desktop\proiect\AltAir\AltAir\obj\Debug\net7.0\ref\AltAir.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\appsettings.Development.json
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\appsettings.json
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\AltAir.staticwebassets.runtime.json
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\AltAir.exe
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\AltAir.deps.json
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\AltAir.runtimeconfig.json
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\AltAir.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\AltAir.pdb
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Azure.Core.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Azure.Identity.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Humanizer.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\NuGet.Common.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\System.CodeDom.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Altair\nou2\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.AssemblyReference.cache
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\AltAir.GeneratedMSBuildEditorConfig.editorconfig
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\AltAir.AssemblyInfoInputs.cache
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\AltAir.AssemblyInfo.cs
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.CoreCompileInputs.cache
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\AltAir.MvcApplicationPartsAssemblyInfo.cs
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\AltAir.MvcApplicationPartsAssemblyInfo.cache
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\AltAir.RazorAssemblyInfo.cache
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\AltAir.RazorAssemblyInfo.cs
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.AltAir.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.build.AltAir.props
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AltAir.props
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AltAir.props
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.build.json
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.development.json
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\scopedcss\bundle\AltAir.styles.css
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\scopedcss\projectbundle\AltAir.bundle.scp.css
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.CopyComplete
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\AltAir.dll
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\refint\AltAir.dll
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\AltAir.pdb
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\AltAir.genruntimeconfig.cache
+D:\Altair\nou2\AltAir\AltAir\obj\Debug\net7.0\ref\AltAir.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\appsettings.Development.json
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\appsettings.json
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\AltAir.staticwebassets.runtime.json
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\AltAir.exe
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\AltAir.deps.json
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\AltAir.runtimeconfig.json
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\AltAir.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\AltAir.pdb
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Azure.Core.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Azure.Identity.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Humanizer.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Build.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.Common.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\System.CodeDom.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.AssemblyReference.cache
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.AssemblyInfoInputs.cache
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.AssemblyInfo.cs
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.CoreCompileInputs.cache
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.MvcApplicationPartsAssemblyInfo.cs
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.MvcApplicationPartsAssemblyInfo.cache
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.RazorAssemblyInfo.cache
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.RazorAssemblyInfo.cs
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.AltAir.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.build.AltAir.props
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AltAir.props
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AltAir.props
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.build.json
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.development.json
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\scopedcss\bundle\AltAir.styles.css
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\scopedcss\projectbundle\AltAir.bundle.scp.css
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.CopyComplete
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\refint\AltAir.dll
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.pdb
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\AltAir.genruntimeconfig.cache
+D:\ALL BOGDAN\Facultate\Anul 3\Semestrul 2\Proiect\AltAir\AltAir\obj\Debug\net7.0\ref\AltAir.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\appsettings.Development.json
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\appsettings.json
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\AltAir.staticwebassets.runtime.json
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\AltAir.exe
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\AltAir.deps.json
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\AltAir.runtimeconfig.json
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\AltAir.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\AltAir.pdb
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Azure.Core.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Azure.Identity.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Humanizer.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Build.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\NuGet.Common.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\System.CodeDom.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\System.Memory.Data.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\dada\AltAir\AltAir\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.AssemblyReference.cache
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\AltAir.GeneratedMSBuildEditorConfig.editorconfig
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\AltAir.AssemblyInfoInputs.cache
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\AltAir.AssemblyInfo.cs
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.CoreCompileInputs.cache
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\AltAir.MvcApplicationPartsAssemblyInfo.cs
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\AltAir.MvcApplicationPartsAssemblyInfo.cache
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\AltAir.RazorAssemblyInfo.cache
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\AltAir.RazorAssemblyInfo.cs
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.AltAir.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.build.AltAir.props
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AltAir.props
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AltAir.props
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.pack.json
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.build.json
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\staticwebassets.development.json
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\scopedcss\bundle\AltAir.styles.css
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\scopedcss\projectbundle\AltAir.bundle.scp.css
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\AltAir.csproj.CopyComplete
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\AltAir.dll
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\refint\AltAir.dll
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\AltAir.pdb
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\AltAir.genruntimeconfig.cache
+D:\dada\AltAir\AltAir\obj\Debug\net7.0\ref\AltAir.dll

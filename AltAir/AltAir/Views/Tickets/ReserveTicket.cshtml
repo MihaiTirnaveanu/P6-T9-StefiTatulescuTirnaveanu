@@ -1,0 +1,117 @@
+﻿@model AltAir.Models.Ticket
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Ticket</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ReserveTicket">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Seat" class="control-label"></label>
+                <input asp-for="Seat" class="form-control" />
+                <span asp-validation-for="Seat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price   " class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Flight" class="control-label"></label>
+                <input asp-for="FlightId" class="form-control" readonly />
+            </div>
+            <div class="form-group">
+                <label asp-for="FlightClass" class="control-label"></label>
+                <select asp-for="FlightClassId" class="form-control" asp-items="ViewBag.FlightClassId"></select>
+            </div>
+            <div class="form-group">
+                <input type="button" value="Book ticket" class="btn btn-primary" id="book-ticket-btn" />
+            </div>
+            <div id="payment-btn-placeholder"></div>
+            <div id="card-message"></div>
+
+        </form>
+    </div>
+</div>
+
+
+<div>
+    <a asp-action="Index">Back to Ticket</a>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        $(function () {
+            $('#book-ticket-btn').click(function (e) {
+                e.preventDefault();
+
+                var choosePaymentBtn = $('<button>')
+                    .addClass('btn btn-primary')
+                    .html('Choose payment')
+                    .appendTo($('#payment-btn-placeholder'));
+
+                choosePaymentBtn.click(function () {
+                    var hasCard = null;
+
+                    // Call the method to check if the user has a card
+                    $.ajax({
+                        url: '/Tickets/HasCard',
+                        type: 'GET',
+                        async: false,
+                        success: function (result) {
+                            hasCard = result;
+                        }
+                    });
+
+                    // Show the message based on whether the user has a card or not
+                    var cardMessage = $('#card-message');
+                    if (cardMessage.length === 0) {
+                        cardMessage = $('<div>')
+                            .addClass('text-info')
+                            .attr('id', 'card-message')
+                            .appendTo($('#payment-btn-placeholder'));
+                    }
+
+                    cardMessage.html(hasCard ? 'A card has been found for the current user.' : 'There is no card registered for the current user. Please <a href="/Cards/Create">create one here</a>, and come back.');
+
+                    if (hasCard) {
+                        // Wait for 3 seconds before rendering the "Buy ticket" button
+                        setTimeout(function () {
+                            var paymentMethodBtn = $('<button>')
+                                .addClass('btn btn-secondary')
+                                .html('Finalize the payment')
+                                .attr('type', 'button')
+                                .appendTo($('#payment-btn-placeholder'));
+
+                            paymentMethodBtn.click(function () {
+                                // Submit the form when the payment method button is clicked
+                                $('form').submit();
+                            });
+                        }, 3000);
+                    } else {
+                        // Redirect the user to the create card page when the "here" link is clicked
+                        $('a').click(function (e) {
+                            e.preventDefault();
+                            window.location.href = $(this).attr('href');
+                        });
+                    }
+
+                    return false; // prevent automatic form submission
+                });
+            });
+        });
+
+    </script>
+
+
+
+}

@@ -1,0 +1,120 @@
+﻿@model IEnumerable<AltAir.Models.Flight>
+
+@using Microsoft.AspNetCore.Identity
+@using System.Security.Claims;
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1> AltAir Flights</h1>
+@if (User.Identity.IsAuthenticated)
+{
+    var roleClaim = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Role);
+    if (roleClaim != null && roleClaim.Value == "Administrator")
+    {
+        <p>
+            <a asp-action="Create">Create New</a>
+        </p>
+    }
+}
+<form asp-action="Index">
+    <div class="input-group md-form form-control-sm form-2 pl-0">
+        <input name="childname" class="form-control my-0 py-1 table-bordered" type="text" placeholder="Search" aria-label="Search">
+        <div class="input-group-append">
+            <button class="btn btn-outline-success" id="search-button">Search</button>
+        </div>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FlightDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DepartureAirport)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DepartureTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ArrivalAirport)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ArrivalTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AvailableSeats)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FlightType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Route)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Plane)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FlightDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DepartureAirport)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DepartureTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArrivalAirport)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArrivalTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AvailableSeats)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FlightType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Route.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Plane.Id)
+            </td>
+            <td>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        var roleClaim = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Role);
+                        if (roleClaim != null && roleClaim.Value == "Administrator")
+                        {
+                            <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                        }
+                        <a asp-action="Details" asp-route-id="@item.Id">Book now</a>
+                        
+                    }
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a>
+   
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+@section scripts{
+    <script>
+        $(function () {
+            $("#search-button").click(function (){
+                $("Form").submit();
+            })
+        })
+    </script>
+}

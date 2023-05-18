@@ -1,0 +1,28 @@
+﻿@model IEnumerable<AltAir.Models.Ticket>
+
+
+<h1>Your Tickets</h1>
+
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Flight</th>
+                <th>Class</th>
+                <th>Seat</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var ticket in Model)
+            {
+                <tr>
+                    <td>@ticket.Flight.DepartureAirport to @ticket.Flight.ArrivalAirport on @ticket.Flight.FlightDate</td>
+                    <td>@ticket.FlightClass.ClassType</td>
+                    <td>@ticket.Seat</td>
+                    <td>@ticket.Price</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
