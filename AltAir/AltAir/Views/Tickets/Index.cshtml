@@ -1,0 +1,77 @@
+﻿
+@model IEnumerable<AltAir.Models.Ticket>
+@using System.Security.Claims;
+
+@{
+    ViewData["Title"] = "Index";
+}
+@{
+    var userId = User.FindFirstValue(ClaimTypes.NameIdentifier); // Get id of current user
+    var userTickets = Model.Where(c => c.ApplicationUserId == userId); // ia din baza de date cardurile userului logat
+}
+<h1>Index</h1>
+
+@if (User.Identity.IsAuthenticated)
+{
+    var roleClaim = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Role);
+    if (roleClaim != null && roleClaim.Value == "Administrator")
+    {
+        <p>
+            <a asp-action="Create">Create New</a>
+        </p>
+    }
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Seat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ApplicationUser)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FlightClass)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Flight)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in userTickets)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Seat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ApplicationUser.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FlightClass.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Flight.Id)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        var roleClaim = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Role);
+                        if (roleClaim != null && roleClaim.Value == "Administrator")
+                        {
+                            <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                        } else
+                        {
+                            <a asp-action="Delete" asp-route-id="@item.Id">Cancel booking</a>
+                        }
+                    }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
